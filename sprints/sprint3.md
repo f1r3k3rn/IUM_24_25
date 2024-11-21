@@ -34,7 +34,7 @@ si vuole analizzare lo user group dei **lettori esperti**
 | **constraints**                                    | /                                                                                                                                                                                  |
 | **competitor**                                     | bookship, goodreads , library thing, litsy                                                                                                                                         |
 | **design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, amazon, letterboxd,instagram e altri social networks                                                                              |
-[foglio google](https://docs.google.com/spreadsheets/d/1OFCtMmo3c2e5qKWhMpLEpv7e6M_PwSinetkNtBIP5PY/edit?usp=sharing)
+
 
 # DESIGN
 
