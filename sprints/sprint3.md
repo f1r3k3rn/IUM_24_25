@@ -112,6 +112,24 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. **Guarda la sua libreria aggiornata:**  
    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
 
+**Visualizza la mappa dei negozi con un libro d'interesse [Francesco Sgaramella]**
+
+1. **Visualizzazione mappa con i libri**
+   - L'utente visualizza su una mappa virtuale i negozi che possiedono il libro selezionato. I negozi sono evidenziati da un segnalibro.
+   - L'utente può allargare il raggio di ricerca allontanandosi dalla sua posizione attuale per trovare negozi distanti
+
+2. **Visualizzazione dei negozi con lista (opzionale)**
+   - Al posto della mappa è possibile visualizzare i negozi pertinenti in una
+
+3. **Selezione del negozio**
+   - Una volta selezionato il negozio dalla lista o dalla mappa il sistema mostrerà le informazioni specifiche del negozio come:
+     - Indirizzo
+     - Numero di telefono
+     - Social
+
+4. **Salva promemoria**
+   - Dall'interfaccia del negozio è possibile salvare un premoria per ricordare all'utente che in tale negozio è presente un libro di suo interesse
+
 # Design step 3
 
 crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
