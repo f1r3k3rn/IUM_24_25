@@ -71,6 +71,47 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 5. Aggiungi un nuovo libro nella tua libreria personale.
 6. Visualizza la tua libreria personale.
 
+
+**punto 4 - 5**
+
+- Pontrelli Michele - Task 1
+- Zippo Fabio - Task 2
+- Sgaramella Francesco - Task 3
+- Sakellarides Elia - Task 4
+- Porcelli Andrea- Task 5
+- Pacucci Niccolò - Task 6
+
+
+
+**Aggiungi un nuovo libro nella tua libreria personale [porcelli]**
+
+1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**  
+   - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
+
+2. **Sceglie come vuole aggiungere il libro:**  
+   - L’app ti dà varie opzioni per aggiungere il libro:  
+     - **Scansione del codice a barre :** Usa la fotocamera del telefono per scansionare  "tipo scanner qr".
+     - **Cerca il titolo o l’autore:** Scrivi il titolo del libro o il nome dell’autore nella barra di ricerca.  
+     - **Importa da un servizio:** Se hai collegato un account come Kindle o Google Books, puoi aggiungere libri direttamente da lì.
+
+3. **Aggiunge i dettagli personali:**  
+   - Dopo aver selezionato il libro, puoi aggiungere informazioni personali, come:  
+     - Tag o categorie (esempio: “Preferiti”, “Fantasy”).  
+     - Lo stato del libro (Non letto, In lettura, Letto).
+
+4. **Aggiunge altre note (opzionale):**  
+   - Puoi anche scrivere qualcosa come:  
+     - Dove hai preso il libro o quando.  
+     - Pensieri personali.  
+     - Note su dove sei arrivato nella lettura.
+
+5. **Salva il libro:**  
+   - Premi il pulsante “Salva” per confermare. L’app ti mostrerà un messaggio tipo: “Libro aggiunto con successo!”.  
+   - Il libro ora si vede nella tua libreria personale.
+
+6. **Guarda la sua libreria aggiornata:**  
+   - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
+
 # Design step 3
 
 
