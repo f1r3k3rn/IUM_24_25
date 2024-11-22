@@ -23,17 +23,17 @@ si vuole analizzare lo user group dei **lettori esperti**
 
 |                                                    | description                                                                                                                                                                        |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **client/stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
-| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Niccolò                                                                          |
-| **target user group**                              | lettore esperto                                                                                                                                                                    |
-| **problem statement**                              | Attualmente non esiste un sistema efficente,efficacie e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca,esplorazione e confronto riguardo la lettura. |
-| **design statement**                               | progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                       |
-| **User's goal**                                    | avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerla                                                                               |
-| **UX goal**                                        | stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
-| **Deliverables**                                   | un applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimulando e consigliando nuove letture                                                   |
+| **Client/Stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
+| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Nicolo'                                                                          |
+| **target user group**                              | Lettore esperto                                                                                                                                                                    |
+| **problem statement**                              | Attualmente non esiste un sistema efficace, efficente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
+| **design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                      |
+| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                            |
+| **UX goal**                                        | Stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
+| **Deliverables**                                   | Un'applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimolando e consigliando nuove letture                                                   |
 | **constraints**                                    | /                                                                                                                                                                                  |
-| **competitor**                                     | bookship, goodreads , library thing, litsy                                                                                                                                         |
-| **design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, amazon, letterboxd,instagram e altri social networks                                                                              |
+| **competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                         |
+| **design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                              |
 
 
 # DESIGN
@@ -45,7 +45,7 @@ si vuole analizzare lo user group dei **lettori esperti**
 Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori**  per votazione generando la seguente tabella :
 
 | **Persona**   | **Software/Contesto** | **Idea chiave**                    | **Descrizione**                                                                                                                                      |
-| ------------- | --------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------- |-----------------------| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Francesco** | Letterbox             | **Design Essenziale**              | L’interfaccia è diretta e intuitiva, senza elementi discordanti, con punti principali subito visibili.                                               |
 |               |                       | **Integrazione con Altri Servizi** | Connessione con altre piattaforme, come IMDb o servizi di streaming, per espandere l’uso e facilitare l’accesso a informazioni aggiuntive.           |
 |               |                       | **Focus Comunitario**              | Commenti, like e condivisioni sono messi in evidenza per favorire l’interazione tra utenti.                                                          |
@@ -55,9 +55,16 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 | **Elia**      | Zalando               | **Navigazione Veloce**             | Barra di ricerca avanzata con suggerimenti in tempo reale e filtri chiari che restringono i risultati.                                               |
 |               |                       | **Semplicità e Usabilità**         | Struttura chiara e intuitiva con menù e filtri sempre accessibili, riducendo il sovraccarico cognitivo.                                              |
 |               |                       | **Personalizzazione Intelligente** | Algoritmi per raccomandazioni su misura e dashboard organizzata con informazioni utili come acquisti e lista dei desideri.                           |
-| **Porcelli**  | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
+| **Andrea**  | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
 |               |                       | **Micro-interazioni**              | Feedback immediato con animazioni (es. cuore pulsante) e transizioni fluide per migliorare l’esperienza.                                             |
 |               |                       | **Gamification e Socialità**       | Badge, metriche visibili e notifiche per incentivare attività; strumenti social come messaggi, visualizzazioni e commenti per stimolare interazioni. |
+| **Fabio**  | TikTok                | **Magnetismo**  | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                              |
+|               |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                             |
+|               |                       | **Spazio Personale**       | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento|
+| **Nicolo'**  | Steam                   | **Categorizzazione Contenuti**  | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse                             |
+|               |                       | **Notifiche di Prezzo**              | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                             |
+|               |                       | **Product Insight**       | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni
+
 
 # Design step 2
 
@@ -79,7 +86,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 - Sgaramella Francesco - Task 3
 - Sakellarides Elia - Task 4
 - Porcelli Andrea- Task 5
-- Pacucci Niccolò - Task 6
+- Pacucci Nicolo' - Task 6
 
 
 
