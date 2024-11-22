@@ -114,7 +114,6 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 # Design step 3
 
-
 crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
 
 # Design step 4 - 5
