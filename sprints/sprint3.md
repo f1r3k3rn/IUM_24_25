@@ -1,11 +1,11 @@
 # Discovery Step 5 – Selecting a Target
 
 
-**punto 1 - 2:** abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
+**Punto 1 - 2:** abbiamo aggiornato l'initial mapping con i post-it nelle zone focus dei 3 UX - goal
 
-**punto 3 -4:**
+**Punto 3 -4:**
 
-la parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
+La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
      visualizzare catalogo e consigliati
      scegliere la lettura di maggior interesse
@@ -15,32 +15,32 @@ la parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
 Dalle interviste è emerso il bisogno da parte dei lettori esperti che bisogna avere un' interfaccia facile da utilizzare e capace di coinvolgere l'utente nell' uso del sistema, vogliamo concentrarci sull'analizzare questo bisogno.
 
-**punto 5:**
+**Punto 5:**
 
-si vuole analizzare lo user group dei **lettori esperti**
+Si vuole analizzare lo user group dei **lettori esperti**
 
 # Discovery step 6 - design Brief
 
-|                                                    | description                                                                                                                                                                        |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                    | Description                                                                                                                                                                        |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Client/Stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
 | **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Nicolo'                                                                          |
-| **target user group**                              | Lettore esperto                                                                                                                                                                    |
-| **problem statement**                              | Attualmente non esiste un sistema efficace, efficente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
-| **design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                      |
-| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                            |
+| **Target user group**                              | Lettore esperto                                                                                                                                                                    |
+| **Problem statement**                              | Attualmente non esiste un sistema efficace, efficente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
+| **Design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                       |
+| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                               |
 | **UX goal**                                        | Stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
 | **Deliverables**                                   | Un'applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimolando e consigliando nuove letture                                                   |
-| **constraints**                                    | /                                                                                                                                                                                  |
-| **competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                         |
-| **design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                              |
+| **Constraints**                                    | /                                                                                                                                                                                  |
+| **Competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                         |
+| **Design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                             |
 
 
 # DESIGN
 
 # Design step 1 
 
-**punti 1 - 3**:
+**Punti 1 - 3:**
 
 Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori**  per votazione generando la seguente tabella :
 
@@ -68,7 +68,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 # Design step 2
 
-**punto 1 - 2 - 3 :** 
+**Punto 1 - 2 - 3:** 
 
 
 1. Vuoi trovare un libro di tuo interesse , visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
@@ -79,18 +79,18 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. Visualizza la tua libreria personale.
 
 
-**punto 4 - 5**
+**Punto 4 - 5:**
 
 - Pontrelli Michele - Task 1
 - Zippo Fabio - Task 2
 - Sgaramella Francesco - Task 3
 - Sakellarides Elia - Task 4
-- Porcelli Andrea- Task 5
+- Porcelli Andrea - Task 5
 - Pacucci Nicolo' - Task 6
 
 
 
-**Aggiungi un nuovo libro nella tua libreria personale [porcelli]**
+**Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
 
 1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**  
    - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
@@ -121,8 +121,8 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 # Design step 3
 
-crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
+Crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
 
 # Design step 4 - 5
 
-molto intuitivi ditemi eventuali domande
+Molto intuitivi ditemi eventuali domande
