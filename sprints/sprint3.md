@@ -94,6 +94,15 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 - **Porcelli Andrea** - Task 5
 - **Pacucci Niccolò** - Task 6
 
+### **Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati. [Pontrelli]**
+
+1.  **L'utente dal menù principale passa alla pagina dei cataloghi**
+    - Quando apri l’app, dal menù principale, naviga nella sezione "Cataloghi".
+
+2.  **Nella sezione "Cataloghi", l'utente cliccherà sul catalogo delle letture consigliate:**
+    - Passato alla sezione "Cataloghi", l'utente si trova davanti a diversi cataloghi contenenti libri raggruppati per temi, come: "Consigliati", "Novità", eventi speciali o generi.
+    - L'utente seleziona il catalogo "Consigliati".
+
 ### **Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
 
 1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**
