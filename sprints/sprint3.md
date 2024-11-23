@@ -136,7 +136,6 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 1. **Accesso alla libreria personale**
     - L'utente accede alla sua libreria personale dal menu principale dell'app. Può essere un pulsante o un'icona con un simbolo di libri.
-    -
 2. **Visualizzazione libreria personale**
     - L'utente visualizza la sua libreria personale con tutti i libri aggiunti. I libri sono ordinati per data di aggiunta o per categoria.
     - Ogni libro è rappresentato da una miniatura con il titolo e l'autore.
