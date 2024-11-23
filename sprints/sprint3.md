@@ -71,7 +71,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 **Punto 1 - 2 - 3:** 
 
 
-1. Vuoi trovare un libro di tuo interesse , visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
+1. Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
 2. Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa.
 3. Una volta selezionato il libro visualizza sulla mappa i punti vendita dove è disponibile.
 4. Una volta trovato il libro di tuo interesse, visualizza le informazioni specifiche a riguardo.
@@ -97,7 +97,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 2. **Sceglie come vuole aggiungere il libro:**  
    - L’app ti dà varie opzioni per aggiungere il libro:  
-     - **Scansione del codice a barre :** Usa la fotocamera del telefono per scansionare  "tipo scanner qr".
+     - **Scansione del codice a barre:** Usa la fotocamera del telefono per scansionare "tipo scanner QR".
      - **Cerca il titolo o l’autore:** Scrivi il titolo del libro o il nome dell’autore nella barra di ricerca.  
      - **Importa da un servizio:** Se hai collegato un account come Kindle o Google Books, puoi aggiungere libri direttamente da lì.
 
@@ -118,6 +118,19 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 6. **Guarda la sua libreria aggiornata:**  
    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
+
+**Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa. [Zippo]**
+
+1. **Visualizza i libri consigliati:**  
+   - Una volta scelto il catalogo dei libri consigliati si presenta una lista di libri.
+   - È possibile applicare filtri o fare una ricerca per trovare il libro desiderato.
+   - È inoltre possibile modificare la modalità di visualizzazione della lista.
+2. **Scegli il libro interessato:**  
+   - Scorri la lista di libri consigliati e seleziona il libro che ti interessa.
+   - Clicca sul libro per selezionarlo e visualizzarne i dettagli come:  
+     - Autore, genere, data di pubblicazione.  
+     - Trama, recensioni, valutazioni.  
+     - Pagine, formato, prezzo.
 
 # Design step 3
 
