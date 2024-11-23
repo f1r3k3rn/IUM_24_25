@@ -205,8 +205,24 @@ gli orari sono **variabili nel corso del giorno**
 
 ## Design step 3
 
-Aggingere foto
 
-## Design step 4 - 5
+### punto 2 Greatest hits
 
-Molto intuitivi ditemi eventuali domande
+| **Idea Chiave**                          | **Ispirazioni**                                                    | **Opportunità**                                                                                                                   | **Focus sull'Obiettivo Principale**                                                                                  |
+|------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Design Essenziale e Intuitivo**        | Design minimale, interfacce di app come Goodreads e Kindle         | Offrire un’esperienza chiara e senza distrazioni, migliorando l’accessibilità                                                     | **Aumentare la passione verso la lettura** con un’interfaccia semplice                                               |
+| **Integrazione con Altri Servizi**       | Kindle, Google Books, Netflix, IMDb                                | Fornire un collegamento tra film, serie tv e i rispettivi libri e dare la possibilità di importare libri da Kindle o Google Books | **Accrescere le conoscenze dei lettori** e invitarli ad scoprire nuovi titoli                                        |
+| **Focus Comunitario e Socialità**        | Social media come Instagram e Twitter, Goodreads                   | Creare una community che interagisca, commenti e condivida le proprie esperienze di lettura                                       | **Aumentare la passione verso la lettura** attraverso recensioni e discussioni comunitarie                           |
+| **Layout a Carosello per Nuovi Libri**   | Caroselli visivi, da Amazon e altre piattaforme di shopping online | Mettere in evidenza libri consigliati, novità ed eventi speciali                                                                  | **Aumentare la passione verso la lettura** presentando nuove letture in maniera visivamente interessante             |
+| **Recensioni e Domande/risposte**        | Amazon, Goodreads, forum online di lettori                         | Permettere agli utenti di leggere le opinioni altrui, recensire i libri letti e discuterne                                        | **Accrescere le conoscenze dei lettori e aumentare la passione verso la lettura** attraverso la community            |
+| **Filtri di Ricerca Avanzata**           | Ricerca avanzata presa da Netflix, Amazon, Spotify                 | Facilitare la scoperta di nuovi libri tramite filtri personalizzati (es. difficoltà, genere, autore)                              | **Aumentare la passione verso la lettura** aiutando a scoprire libri interessanti più facilmente                     |
+| **Notifiche di Prezzo e Offerte Locali** | App di shopping come eBay, piattaforme di coupon locali            | Notificare gli utenti su sconti o eventi nelle librerie locali per incentivare gli acquisti                                       | **Favorire le attività locali** pubblicizandone sconti ed eventi                                                     |
+| **Personalizzazione Intelligente**       | Algoritmi di raccomandazione come quelli di Netflix, YouTube       | Consigliare i libri in base ai gusti e alle letture passate degli utenti.                                                         | **Accrescere le conoscenze dei lettori** offrendo consigli su misura                                                 |
+| **Community Virtuale e Socializzazione** | Facebook, Goodreads, app di messaggistica                          | Permettere agli utenti di seguire i progressi di lettura degli amici, creando gruppi di lettura                                   | **Aumentare la passione verso la lettura** stimolando la socializzazione e la condivisione di esperienze             |
+| **Spazio Personale con Profilo Lettore** | Profilo utente di Facebook, piattaforme di streaming               | Consentire agli utenti di creare e personalizzare il proprio profilo, attraverso una libreria digitale                            | **Aumentare la passione verso la lettura** incoraggiando a procedere nelle proprie letture e la condivisione di esse |
+
+
+## Design step 4
+
+
+## Design step 5
