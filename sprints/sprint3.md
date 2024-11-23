@@ -1,9 +1,12 @@
-# Discovery Step 5 – Selecting a Target
+## Discovery Step 5 – Selecting a Target
 
 
-**Punto 1 - 2:** abbiamo aggiornato l'initial mapping con i post-it nelle zone focus dei 3 UX - goal
 
-**Punto 3 -4:**
+### **punto 1 - 2:** 
+
+abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
+
+### **punto 3 -4:**
 
 La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
@@ -15,11 +18,13 @@ La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
 Dalle interviste è emerso il bisogno da parte dei lettori esperti che bisogna avere un' interfaccia facile da utilizzare e capace di coinvolgere l'utente nell' uso del sistema, vogliamo concentrarci sull'analizzare questo bisogno.
 
-**Punto 5:**
+### **punto 5:**
 
 Si vuole analizzare lo user group dei **lettori esperti**
 
-# Discovery step 6 - design Brief
+## Discovery step 6 - design Brief
+
+Documento prodotto:
 
 |                                                    | Description                                                                                                                                                                        |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,11 +41,12 @@ Si vuole analizzare lo user group dei **lettori esperti**
 | **Design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                             |
 
 
-# DESIGN
+# Design
 
-# Design step 1
 
-**Punti 1 - 3:**
+## Design step 1 
+
+### **punti 1 - 3**:
 
 Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori**  per votazione generando la seguente tabella :
 
@@ -66,9 +72,9 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 |               |                       | **Product Insight**       | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni
 
 
-# Design step 2
+## Design step 2
 
-**Punto 1 - 2 - 3:**
+### **punto 1 - 2 - 3 :** 
 
 
 1. Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
@@ -79,18 +85,16 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. Visualizza la tua libreria personale.
 
 
-**Punto 4 - 5:**
+### **punto 4 - 5**
 
-- Pontrelli Michele - Task 1
-- Zippo Fabio - Task 2
-- Sgaramella Francesco - Task 3
-- Sakellarides Elia - Task 4
-- Porcelli Andrea - Task 5
-- Pacucci Nicolo' - Task 6
+- **Pontrelli Michele** - Task 1
+- **Zippo Fabio** - Task 2
+- **Sgaramella Francesco** - Task 3
+- **Sakellarides Elia** - Task 4
+- **Porcelli Andrea** - Task 5
+- **Pacucci Niccolò** - Task 6
 
-
-
-**Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
+### **Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
 
 1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**
     - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
@@ -111,13 +115,30 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
         - Dove hai preso il libro o quando.
         - Pensieri personali.
         - Note su dove sei arrivato nella lettura.
-
 5. **Salva il libro:**
     - Premi il pulsante “Salva” per confermare. L’app ti mostrerà un messaggio tipo: “Libro aggiunto con successo!”.
     - Il libro ora si vede nella tua libreria personale.
 
 6. **Guarda la sua libreria aggiornata:**
     - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
+
+### **Visualizza la mappa dei negozi con un libro d'interesse [Sgaramella Francesco]**
+
+1. **Visualizzazione mappa con i libri**
+   - L'utente visualizza su una mappa virtuale i negozi che possiedono il libro selezionato. I negozi sono evidenziati da un segnalibro.
+   - L'utente può allargare il raggio di ricerca allontanandosi dalla sua posizione attuale per trovare negozi distanti
+
+2. **Visualizzazione dei negozi con lista (opzionale)**
+   - Al posto della mappa è possibile visualizzare i negozi pertinenti in una
+
+3. **Selezione del negozio**
+   - Una volta selezionato il negozio dalla lista o dalla mappa il sistema mostrerà le informazioni specifiche del negozio come:
+     - Indirizzo
+     - Numero di telefono
+     - Social
+
+4. **Salva promemoria**
+   - Dall'interfaccia del negozio è possibile salvare un premoria per ricordare all'utente che in tale negozio è presente un libro di suo interesse
 
 ### **Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa. [Zippo]**
 
@@ -149,15 +170,34 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 4. **Visualizzazione dettagli libro**
 
-
 5. **Eliminazione libro**
     - L'utente può eliminare un libro dalla sua libreria personale.
     - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.
     - L'app chiederà una conferma prima di eliminare il libro.
-# Design step 3
 
-Crazy 8 leggetelo e fatemi sapere se ci sono delle domande
+### **punto 6**
 
-# Design step 4 - 5
+[preparazione_user_testing](./User_testing_preparation.md)
+
+### **punto 7**
+
+gli orari sono **variabili nel corso del giorno**
+
+| **User** | **Conductor**        | **Notetaker**        | **Place of the testing**     | **Time of the testing (date and time)** | **What user group is the user representing** |
+|----------|----------------------|----------------------|------------------------------|-----------------------------------------|----------------------------------------------|
+| User 1   | Zippo Fabio          | Andrea Porcelli      | Caffè del corso, Bisceglie   | 26 Novembre 2024, 10:00 AM               | Lettore esperto                                |
+| User 2   | Porcelli Andrea      | Fabio Zippo          | Free Time, Giovinazzo        | 28 Novembre 2024, 3:30 PM                | Lettore esperto                                |
+| User 3   | Pacucci Nicolò       | Pontrelli Michele     | Libreria Mondadori, Bari     | 30 Novembre 2024, 11:00 AM               | Lettore esperto                                |
+| User 4   | Pontrelli Michele    | Pacucci Nicolò        | Libreria Mondadori, Bari     | 2 Dicembre 2024, 2:00 PM                 | Lettore esperto                                |
+| User 5   | Sgaramella Francesco | Sakellarides Elia     | Officina san domenico,Andria | 5 Dicembre 2024, 4:00 PM                 | Lettore esperto                                |
+| User 6   | Sakellarides Elia    | Sgaramella Francesco  | Officina san domenico,Andria   | 9 Dicembre 2024, 1:00 PM                 | Lettore esperto                                |
+
+
+
+## Design step 3
+
+Aggingere foto
+
+## Design step 4 - 5
 
 Molto intuitivi ditemi eventuali domande
