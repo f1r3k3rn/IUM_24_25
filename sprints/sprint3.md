@@ -1,11 +1,13 @@
-# Discovery Step 5 – Selecting a Target
+## Discovery Step 5 – Selecting a Target
 
 
-**Punto 1 - 2:** abbiamo aggiornato l'initial mapping con i post-it nelle zone focus dei 3 UX - goal
+### **punto 1 - 2:** 
 
-**Punto 3 -4:**
+abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
 
-La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
+### **punto 3 -4:**
+
+la parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
      visualizzare catalogo e consigliati
      scegliere la lettura di maggior interesse
@@ -15,37 +17,39 @@ La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
 Dalle interviste è emerso il bisogno da parte dei lettori esperti che bisogna avere un' interfaccia facile da utilizzare e capace di coinvolgere l'utente nell' uso del sistema, vogliamo concentrarci sull'analizzare questo bisogno.
 
-**Punto 5:**
+### **punto 5:**
 
-Si vuole analizzare lo user group dei **lettori esperti**
+si vuole analizzare lo user group dei **lettori esperti**
 
-# Discovery step 6 - design Brief
+## Discovery step 6 - design Brief
 
-|                                                    | Description                                                                                                                                                                        |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Client/Stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
-| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Nicolo'                                                                          |
-| **Target user group**                              | Lettore esperto                                                                                                                                                                    |
-| **Problem statement**                              | Attualmente non esiste un sistema efficace, efficente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
-| **Design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                       |
-| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                               |
-| **UX goal**                                        | Stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
-| **Deliverables**                                   | Un'applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimolando e consigliando nuove letture                                                   |
-| **Constraints**                                    | /                                                                                                                                                                                  |
-| **Competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                         |
-| **Design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                             |
+Documento prodotto:
+
+|                                                    | description                                                                                                                                                                        |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **client/stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
+| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Niccolò                                                                          |
+| **target user group**                              | lettore esperto                                                                                                                                                                    |
+| **problem statement**                              | Attualmente non esiste un sistema efficente,efficacie e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca,esplorazione e confronto riguardo la lettura. |
+| **design statement**                               | progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                       |
+| **User's goal**                                    | avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerla                                                                               |
+| **UX goal**                                        | stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
+| **Deliverables**                                   | un applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimulando e consigliando nuove letture                                                   |
+| **constraints**                                    | /                                                                                                                                                                                  |
+| **competitor**                                     | bookship, goodreads , library thing, litsy                                                                                                                                         |
+| **design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, amazon, letterboxd,instagram e altri social networks                                                                              |
 
 
-# DESIGN
+# Design
 
-# Design step 1 
+## Design step 1 
 
-**Punti 1 - 3:**
+### **punti 1 - 3**:
 
 Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori**  per votazione generando la seguente tabella :
 
 | **Persona**   | **Software/Contesto** | **Idea chiave**                    | **Descrizione**                                                                                                                                      |
-| ------------- |-----------------------| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------- | --------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Francesco** | Letterbox             | **Design Essenziale**              | L’interfaccia è diretta e intuitiva, senza elementi discordanti, con punti principali subito visibili.                                               |
 |               |                       | **Integrazione con Altri Servizi** | Connessione con altre piattaforme, come IMDb o servizi di streaming, per espandere l’uso e facilitare l’accesso a informazioni aggiuntive.           |
 |               |                       | **Focus Comunitario**              | Commenti, like e condivisioni sono messi in evidenza per favorire l’interazione tra utenti.                                                          |
@@ -55,20 +59,13 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 | **Elia**      | Zalando               | **Navigazione Veloce**             | Barra di ricerca avanzata con suggerimenti in tempo reale e filtri chiari che restringono i risultati.                                               |
 |               |                       | **Semplicità e Usabilità**         | Struttura chiara e intuitiva con menù e filtri sempre accessibili, riducendo il sovraccarico cognitivo.                                              |
 |               |                       | **Personalizzazione Intelligente** | Algoritmi per raccomandazioni su misura e dashboard organizzata con informazioni utili come acquisti e lista dei desideri.                           |
-| **Andrea**  | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
+| **Porcelli**  | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
 |               |                       | **Micro-interazioni**              | Feedback immediato con animazioni (es. cuore pulsante) e transizioni fluide per migliorare l’esperienza.                                             |
 |               |                       | **Gamification e Socialità**       | Badge, metriche visibili e notifiche per incentivare attività; strumenti social come messaggi, visualizzazioni e commenti per stimolare interazioni. |
-| **Fabio**  | TikTok                | **Magnetismo**  | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                              |
-|               |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                             |
-|               |                       | **Spazio Personale**       | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento|
-| **Nicolo'**  | Steam                   | **Categorizzazione Contenuti**  | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse                             |
-|               |                       | **Notifiche di Prezzo**              | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                             |
-|               |                       | **Product Insight**       | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni
 
+## Design step 2
 
-# Design step 2
-
-**Punto 1 - 2 - 3:** 
+### **punto 1 - 2 - 3 :** 
 
 
 1. Vuoi trovare un libro di tuo interesse , visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
@@ -79,18 +76,18 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. Visualizza la tua libreria personale.
 
 
-**Punto 4 - 5:**
+### **punto 4 - 5**
 
-- Pontrelli Michele - Task 1
-- Zippo Fabio - Task 2
-- Sgaramella Francesco - Task 3
-- Sakellarides Elia - Task 4
-- Porcelli Andrea - Task 5
-- Pacucci Nicolo' - Task 6
+- **Pontrelli Michele** - Task 1
+- **Zippo Fabio** - Task 2
+- **Sgaramella Francesco** - Task 3
+- **Sakellarides Elia** - Task 4
+- **Porcelli Andrea** - Task 5
+- **Pacucci Niccolò** - Task 6
 
 
 
-**Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
+### **Aggiungi un nuovo libro nella tua libreria personale [Porcelli Andrea]**
 
 1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**  
    - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
@@ -119,10 +116,72 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. **Guarda la sua libreria aggiornata:**  
    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
 
-# Design step 3
+### **Visualizza la mappa dei negozi con un libro d'interesse [Sgaramella Francesco]**
 
-Crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
+1. **Visualizzazione mappa con i libri**
+   - L'utente visualizza su una mappa virtuale i negozi che possiedono il libro selezionato. I negozi sono evidenziati da un segnalibro.
+   - L'utente può allargare il raggio di ricerca allontanandosi dalla sua posizione attuale per trovare negozi distanti
 
-# Design step 4 - 5
+2. **Visualizzazione dei negozi con lista (opzionale)**
+   - Al posto della mappa è possibile visualizzare i negozi pertinenti in una
+
+3. **Selezione del negozio**
+   - Una volta selezionato il negozio dalla lista o dalla mappa il sistema mostrerà le informazioni specifiche del negozio come:
+     - Indirizzo
+     - Numero di telefono
+     - Social
+
+4. **Salva promemoria**
+   - Dall'interfaccia del negozio è possibile salvare un premoria per ricordare all'utente che in tale negozio è presente un libro di suo interesse
+
+
+### Visualizza la tua libreria personale [Pacucci Niccolò]
+
+1. **Accesso alla libreria personale**
+    - L'utente accede alla sua libreria personale dal menu principale dell'app. Può essere un pulsante o un'icona con un simbolo di libri.
+    -
+2. **Visualizzazione libreria personale**
+    - L'utente visualizza la sua libreria personale con tutti i libri aggiunti. I libri sono ordinati per data di aggiunta o per categoria.
+    - Ogni libro è rappresentato da una miniatura con il titolo e l'autore.
+    - L'utente può scorrere la libreria per vedere tutti i libri aggiunti.
+
+3. **Filtri e ricerca**
+    - L'utente può filtrare la libreria per:
+        - Categoria (esempio: “Fantasy”, “Romanzi”).
+        - Stato del libro (Non letto, In lettura, Letto).
+    - L'utente può cercare un libro specifico scrivendo il titolo
+
+4. **Visualizzazione dettagli libro**
+
+
+5. **Eliminazione libro**
+    - L'utente può eliminare un libro dalla sua libreria personale.
+    - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.
+    - L'app chiederà una conferma prima di eliminare il libro.
+   
+### **punto 6**
+
+[preparazione_user_testing](./User_testing_preparation.md)
+
+### **punto 7**
+
+gli orari sono **variabili nel corso del giorno**
+
+| **User** | **Conductor**        | **Notetaker**        | **Place of the testing**     | **Time of the testing (date and time)** | **What user group is the user representing** |
+|----------|----------------------|----------------------|------------------------------|-----------------------------------------|----------------------------------------------|
+| User 1   | Zippo Fabio          | Andrea Porcelli      | Caffè del corso, Bisceglie   | 26 Novembre 2024, 10:00 AM               | Lettore esperto                                |
+| User 2   | Porcelli Andrea      | Fabio Zippo          | Free Time, Giovinazzo        | 28 Novembre 2024, 3:30 PM                | Lettore esperto                                |
+| User 3   | Pacucci Nicolò       | Pontrelli Michele     | Libreria Mondadori, Bari     | 30 Novembre 2024, 11:00 AM               | Lettore esperto                                |
+| User 4   | Pontrelli Michele    | Pacucci Nicolò        | Libreria Mondadori, Bari     | 2 Dicembre 2024, 2:00 PM                 | Lettore esperto                                |
+| User 5   | Sgaramella Francesco | Sakellarides Elia     | Officina san domenico,Andria | 5 Dicembre 2024, 4:00 PM                 | Lettore esperto                                |
+| User 6   | Sakellarides Elia    | Sgaramella Francesco  | Officina san domenico,Andria   | 9 Dicembre 2024, 1:00 PM                 | Lettore esperto                                |
+
+
+
+## Design step 3
+
+Aggingere foto
+
+## Design step 4 - 5
 
 Molto intuitivi ditemi eventuali domande
