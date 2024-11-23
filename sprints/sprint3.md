@@ -38,7 +38,7 @@ Si vuole analizzare lo user group dei **lettori esperti**
 
 # DESIGN
 
-# Design step 1 
+# Design step 1
 
 **Punti 1 - 3:**
 
@@ -68,7 +68,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 # Design step 2
 
-**Punto 1 - 2 - 3:** 
+**Punto 1 - 2 - 3:**
 
 
 1. Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
@@ -92,49 +92,72 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 **Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
 
-1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**  
-   - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
+1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**
+    - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
 
-2. **Sceglie come vuole aggiungere il libro:**  
-   - L’app ti dà varie opzioni per aggiungere il libro:  
-     - **Scansione del codice a barre:** Usa la fotocamera del telefono per scansionare "tipo scanner QR".
-     - **Cerca il titolo o l’autore:** Scrivi il titolo del libro o il nome dell’autore nella barra di ricerca.  
-     - **Importa da un servizio:** Se hai collegato un account come Kindle o Google Books, puoi aggiungere libri direttamente da lì.
+2. **Sceglie come vuole aggiungere il libro:**
+    - L’app ti dà varie opzioni per aggiungere il libro:
+        - **Scansione del codice a barre:** Usa la fotocamera del telefono per scansionare "tipo scanner QR".
+        - **Cerca il titolo o l’autore:** Scrivi il titolo del libro o il nome dell’autore nella barra di ricerca.
+        - **Importa da un servizio:** Se hai collegato un account come Kindle o Google Books, puoi aggiungere libri direttamente da lì.
 
-3. **Aggiunge i dettagli personali:**  
-   - Dopo aver selezionato il libro, puoi aggiungere informazioni personali, come:  
-     - Tag o categorie (esempio: “Preferiti”, “Fantasy”).  
-     - Lo stato del libro (Non letto, In lettura, Letto).
+3. **Aggiunge i dettagli personali:**
+    - Dopo aver selezionato il libro, puoi aggiungere informazioni personali, come:
+        - Tag o categorie (esempio: “Preferiti”, “Fantasy”).
+        - Lo stato del libro (Non letto, In lettura, Letto).
 
-4. **Aggiunge altre note (opzionale):**  
-   - Puoi anche scrivere qualcosa come:  
-     - Dove hai preso il libro o quando.  
-     - Pensieri personali.  
-     - Note su dove sei arrivato nella lettura.
+4. **Aggiunge altre note (opzionale):**
+    - Puoi anche scrivere qualcosa come:
+        - Dove hai preso il libro o quando.
+        - Pensieri personali.
+        - Note su dove sei arrivato nella lettura.
 
-5. **Salva il libro:**  
-   - Premi il pulsante “Salva” per confermare. L’app ti mostrerà un messaggio tipo: “Libro aggiunto con successo!”.  
-   - Il libro ora si vede nella tua libreria personale.
+5. **Salva il libro:**
+    - Premi il pulsante “Salva” per confermare. L’app ti mostrerà un messaggio tipo: “Libro aggiunto con successo!”.
+    - Il libro ora si vede nella tua libreria personale.
 
-6. **Guarda la sua libreria aggiornata:**  
-   - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
+6. **Guarda la sua libreria aggiornata:**
+    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
 
-**Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa. [Zippo]**
+### **Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa. [Zippo]**
 
-1. **Visualizza i libri consigliati:**  
-   - Una volta scelto il catalogo dei libri consigliati si presenta una lista di libri.
-   - È possibile applicare filtri o fare una ricerca per trovare il libro desiderato.
-   - È inoltre possibile modificare la modalità di visualizzazione della lista.
-2. **Scegli il libro interessato:**  
-   - Scorri la lista di libri consigliati e seleziona il libro che ti interessa.
-   - Clicca sul libro per selezionarlo e visualizzarne i dettagli come:  
-     - Autore, genere, data di pubblicazione.  
-     - Trama, recensioni, valutazioni.  
-     - Pagine, formato, prezzo.
+1. **Visualizza i libri consigliati:**
+    - Una volta scelto il catalogo dei libri consigliati si presenta una lista di libri.
+    - È possibile applicare filtri o fare una ricerca per trovare il libro desiderato.
+    - È inoltre possibile modificare la modalità di visualizzazione della lista.
+2. **Scegli il libro interessato:**
+    - Scorri la lista di libri consigliati e seleziona il libro che ti interessa.
+    - Clicca sul libro per selezionarlo e visualizzarne i dettagli come:
+        - Autore, genere, data di pubblicazione.
+        - Trama, recensioni, valutazioni.
+        - Pagine, formato, prezzo.
 
+### Visualizza la tua libreria personale [Pacucci Niccolò]
+
+1. **Accesso alla libreria personale**
+    - L'utente accede alla sua libreria personale dal menu principale dell'app. Può essere un pulsante o un'icona con un simbolo di libri.
+    -
+2. **Visualizzazione libreria personale**
+    - L'utente visualizza la sua libreria personale con tutti i libri aggiunti. I libri sono ordinati per data di aggiunta o per categoria.
+    - Ogni libro è rappresentato da una miniatura con il titolo e l'autore.
+    - L'utente può scorrere la libreria per vedere tutti i libri aggiunti.
+
+3. **Filtri e ricerca**
+    - L'utente può filtrare la libreria per:
+        - Categoria (esempio: “Fantasy”, “Romanzi”).
+        - Stato del libro (Non letto, In lettura, Letto).
+    - L'utente può cercare un libro specifico scrivendo il titolo
+
+4. **Visualizzazione dettagli libro**
+
+
+5. **Eliminazione libro**
+    - L'utente può eliminare un libro dalla sua libreria personale.
+    - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.
+    - L'app chiederà una conferma prima di eliminare il libro.
 # Design step 3
 
-Crazy 8 leggetelo e fatemi sapere se ci sono delle domande 
+Crazy 8 leggetelo e fatemi sapere se ci sono delle domande
 
 # Design step 4 - 5
 
