@@ -6,7 +6,7 @@
 
 Abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
 
-### **Punto 3 -4:**
+### **Punto 3 - 4:**
 
 La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
@@ -220,8 +220,34 @@ Gli orari sono **variabili nel corso del giorno**
 | **Community Virtuale e Socializzazione** | Facebook, Goodreads, app di messaggistica                          | Permettere agli utenti di seguire i progressi di lettura degli amici, creando gruppi di lettura                                   | **Aumentare la passione verso la lettura** stimolando la socializzazione e la condivisione di esperienze             |
 | **Spazio Personale con Profilo Lettore** | Profilo utente di Facebook, piattaforme di streaming               | Consentire agli utenti di creare e personalizzare il proprio profilo, attraverso una libreria digitale                            | **Aumentare la passione verso la lettura** incoraggiando a procedere nelle proprie letture e la condivisione di esse |
 
+### crazy8
+
+#### Pontrelli Michele
+![](./crazy8/Pontrelli_Crazy8.jpg)
+
+#### Porcelli Andrea
+![](./crazy8/Porcelli_Crazy8.jpg)
+
+#### Sgaramella Francesco
+![](./crazy8/Sgaramella_Crazy8.jpeg)
+
+#### Zippo Fabio
+![](./crazy8/Zippo_Crazy8.jpg)
+
+#### Pacucci Nicolò
+![](./crazy8/Pacucci_Crazy8.jpg)
 
 ## Design step 4
 
+#### Pontrelli Michele
+![](./proposte_design/Pontrelli_design.png)
+#### Porcelli Andrea
+![](./proposte_design/Porcelli_design.jpg)
+#### Sgaramella Francesco
+![](./proposte_design/Sgaramella_design.png)
+#### Zippo Fabio
+![](./proposte_design/Zippo_design.jpeg)
 
 ## Design step 5
+
+
