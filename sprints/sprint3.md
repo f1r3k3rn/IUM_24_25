@@ -2,11 +2,11 @@
 
 
 
-### **punto 1 - 2:** 
+### **Punto 1 - 2:** 
 
-abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
+Abbiamo aggiornato l'initial mapping con i post - it nelle zone focus dei 3 UX - goal
 
-### **punto 3 -4:**
+### **Punto 3 -4:**
 
 La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
@@ -18,7 +18,7 @@ La parte della mappa che vogliamo analizzare è l' insieme dei seguenti task
 
 Dalle interviste è emerso il bisogno da parte dei lettori esperti che bisogna avere un' interfaccia facile da utilizzare e capace di coinvolgere l'utente nell' uso del sistema, vogliamo concentrarci sull'analizzare questo bisogno.
 
-### **punto 5:**
+### **Punto 5:**
 
 Si vuole analizzare lo user group dei **lettori esperti**
 
@@ -26,19 +26,19 @@ Si vuole analizzare lo user group dei **lettori esperti**
 
 Documento prodotto:
 
-|                                                    | Description                                                                                                                                                                        |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Client/Stakeholder**                             | Maria Francesca Costabile                                                                                                                                                          |
-| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Nicolo'                                                                          |
-| **Target user group**                              | Lettore esperto                                                                                                                                                                    |
-| **Problem statement**                              | Attualmente non esiste un sistema efficace, efficente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
-| **Design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                       |
-| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                               |
-| **UX goal**                                        | Stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                          |
-| **Deliverables**                                   | Un'applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimolando e consigliando nuove letture                                                   |
-| **Constraints**                                    | /                                                                                                                                                                                  |
-| **Competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                         |
-| **Design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                             |
+|                                                    | Description                                                                                                                                                                         |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Client/Stakeholder**                             | Maria Francesca Costabile                                                                                                                                                           |
+| **UCD sprint team**                                | Porcelli Andrea, Sgaramella Francesco, Sakellarides Elia, Zippo Fabio, Pontrelli Michele, Pacucci Nicolo'                                                                           |
+| **Target user group**                              | Lettore esperto                                                                                                                                                                     |
+| **Problem statement**                              | Attualmente non esiste un sistema efficace, efficiente e con alto grado di soddisfazione che riesce a fornire funzionalità di ricerca, esplorazione e confronto riguardo la lettura |
+| **Design statement**                               | Progettare un sistema che possa semplificare l'esperienza dei lettori tramite un interfaccia facile da usare                                                                        |
+| **User's goal**                                    | Avere uno strumento capace di consigliare letture interessanti e dare la possibilità di condividerle                                                                                |
+| **UX goal**                                        | Stimolare l'utente a conoscere nuove letture e fargli percepire un senso di calma e riflessione durante l'uso del sistema                                                           |
+| **Deliverables**                                   | Un'applicazione capace di mettere in contatto i lettori fra di loro e coi negozi locali, stimolando e consigliando nuove letture                                                    |
+| **Constraints**                                    | /                                                                                                                                                                                   |
+| **Competitor**                                     | Bookship, Goodreads , Library thing, Litsy                                                                                                                                          |
+| **Design inspiration suggested by the user group** | TV Time, Just Watch, Pinterest, Splitwise, Dice, Amazon, Letterboxd, Instagram e altri social networks                                                                              |
 
 
 # Design
@@ -46,12 +46,12 @@ Documento prodotto:
 
 ## Design step 1 
 
-### **punti 1 - 3**:
+### **Punti 1 - 3**:
 
-Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori**  per votazione generando la seguente tabella :
+Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori** per votazione generando la seguente tabella:
 
 | **Persona**   | **Software/Contesto** | **Idea chiave**                    | **Descrizione**                                                                                                                                      |
-| ------------- |-----------------------| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|---------------|-----------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Francesco** | Letterbox             | **Design Essenziale**              | L’interfaccia è diretta e intuitiva, senza elementi discordanti, con punti principali subito visibili.                                               |
 |               |                       | **Integrazione con Altri Servizi** | Connessione con altre piattaforme, come IMDb o servizi di streaming, per espandere l’uso e facilitare l’accesso a informazioni aggiuntive.           |
 |               |                       | **Focus Comunitario**              | Commenti, like e condivisioni sono messi in evidenza per favorire l’interazione tra utenti.                                                          |
@@ -61,20 +61,19 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 | **Elia**      | Zalando               | **Navigazione Veloce**             | Barra di ricerca avanzata con suggerimenti in tempo reale e filtri chiari che restringono i risultati.                                               |
 |               |                       | **Semplicità e Usabilità**         | Struttura chiara e intuitiva con menù e filtri sempre accessibili, riducendo il sovraccarico cognitivo.                                              |
 |               |                       | **Personalizzazione Intelligente** | Algoritmi per raccomandazioni su misura e dashboard organizzata con informazioni utili come acquisti e lista dei desideri.                           |
-| **Andrea**  | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
+| **Andrea**    | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
 |               |                       | **Micro-interazioni**              | Feedback immediato con animazioni (es. cuore pulsante) e transizioni fluide per migliorare l’esperienza.                                             |
 |               |                       | **Gamification e Socialità**       | Badge, metriche visibili e notifiche per incentivare attività; strumenti social come messaggi, visualizzazioni e commenti per stimolare interazioni. |
-| **Fabio**  | TikTok                | **Magnetismo**  | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                              |
-|               |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                             |
-|               |                       | **Spazio Personale**       | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento|
-| **Nicolo'**  | Steam                   | **Categorizzazione Contenuti**  | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse                             |
-|               |                       | **Notifiche di Prezzo**              | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                             |
-|               |                       | **Product Insight**       | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni
-
+| **Fabio**     | TikTok                | **Magnetismo**                     | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                                    |
+|               |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                                           |
+|               |                       | **Spazio Personale**               | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento              |
+| **Nicolo'**   | Steam                 | **Categorizzazione Contenuti**     | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse              |
+|               |                       | **Notifiche di Prezzo**            | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                                                 |
+|               |                       | **Product Insight**                | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni                                           |
 
 ## Design step 2
 
-### **punto 1 - 2 - 3 :** 
+### **Punto 1 - 2 - 3 :** 
 
 
 1. Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
@@ -85,7 +84,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 6. Visualizza la tua libreria personale.
 
 
-### **punto 4 - 5**
+### **Punto 4 - 5**
 
 - **Pontrelli Michele** - Task 1
 - **Zippo Fabio** - Task 2
@@ -184,22 +183,22 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
     - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.
     - L'app chiederà una conferma prima di eliminare il libro.
 
-### **punto 6**
+### **Punto 6**
 
 [preparazione_user_testing](./User_testing_preparation.md)
 
-### **punto 7**
+### **Punto 7**
 
-gli orari sono **variabili nel corso del giorno**
+Gli orari sono **variabili nel corso del giorno**
 
 | **User** | **Conductor**        | **Notetaker**        | **Place of the testing**     | **Time of the testing (date and time)** | **What user group is the user representing** |
 |----------|----------------------|----------------------|------------------------------|-----------------------------------------|----------------------------------------------|
-| User 1   | Zippo Fabio          | Andrea Porcelli      | Caffè del corso, Bisceglie   | 26 Novembre 2024, 10:00 AM               | Lettore esperto                                |
-| User 2   | Porcelli Andrea      | Fabio Zippo          | Free Time, Giovinazzo        | 28 Novembre 2024, 3:30 PM                | Lettore esperto                                |
-| User 3   | Pacucci Nicolò       | Pontrelli Michele     | Libreria Mondadori, Bari     | 30 Novembre 2024, 11:00 AM               | Lettore esperto                                |
-| User 4   | Pontrelli Michele    | Pacucci Nicolò        | Libreria Mondadori, Bari     | 2 Dicembre 2024, 2:00 PM                 | Lettore esperto                                |
-| User 5   | Sgaramella Francesco | Sakellarides Elia     | Officina san domenico,Andria | 5 Dicembre 2024, 4:00 PM                 | Lettore esperto                                |
-| User 6   | Sakellarides Elia    | Sgaramella Francesco  | Officina san domenico,Andria   | 9 Dicembre 2024, 1:00 PM                 | Lettore esperto                                |
+| User 1   | Zippo Fabio          | Andrea Porcelli      | Caffè del corso, Bisceglie   | 26 Novembre 2024, 10:00 AM              | Lettore esperto                              |
+| User 2   | Porcelli Andrea      | Fabio Zippo          | Free Time, Giovinazzo        | 28 Novembre 2024, 3:30 PM               | Lettore esperto                              |
+| User 3   | Pacucci Nicolò       | Pontrelli Michele    | Libreria Mondadori, Bari     | 30 Novembre 2024, 11:00 AM              | Lettore esperto                              |
+| User 4   | Pontrelli Michele    | Pacucci Nicolò       | Libreria Mondadori, Bari     | 2 Dicembre 2024, 2:00 PM                | Lettore esperto                              |
+| User 5   | Sgaramella Francesco | Sakellarides Elia    | Officina san domenico,Andria | 5 Dicembre 2024, 4:00 PM                | Lettore esperto                              |
+| User 6   | Sakellarides Elia    | Sgaramella Francesco | Officina san domenico,Andria | 9 Dicembre 2024, 1:00 PM                | Lettore esperto                              |
 
 
 
@@ -216,7 +215,7 @@ gli orari sono **variabili nel corso del giorno**
 | **Layout a Carosello per Nuovi Libri**   | Caroselli visivi, da Amazon e altre piattaforme di shopping online | Mettere in evidenza libri consigliati, novità ed eventi speciali                                                                  | **Aumentare la passione verso la lettura** presentando nuove letture in maniera visivamente interessante             |
 | **Recensioni e Domande/risposte**        | Amazon, Goodreads, forum online di lettori                         | Permettere agli utenti di leggere le opinioni altrui, recensire i libri letti e discuterne                                        | **Accrescere le conoscenze dei lettori e aumentare la passione verso la lettura** attraverso la community            |
 | **Filtri di Ricerca Avanzata**           | Ricerca avanzata presa da Netflix, Amazon, Spotify                 | Facilitare la scoperta di nuovi libri tramite filtri personalizzati (es. difficoltà, genere, autore)                              | **Aumentare la passione verso la lettura** aiutando a scoprire libri interessanti più facilmente                     |
-| **Notifiche di Prezzo e Offerte Locali** | App di shopping come eBay, piattaforme di coupon locali            | Notificare gli utenti su sconti o eventi nelle librerie locali per incentivare gli acquisti                                       | **Favorire le attività locali** pubblicizandone sconti ed eventi                                                     |
+| **Notifiche di Prezzo e Offerte Locali** | App di shopping come eBay, piattaforme di coupon locali            | Notificare gli utenti su sconti o eventi nelle librerie locali per incentivare gli acquisti                                       | **Favorire le attività locali** pubblicizzandone sconti ed eventi                                                    |
 | **Personalizzazione Intelligente**       | Algoritmi di raccomandazione come quelli di Netflix, YouTube       | Consigliare i libri in base ai gusti e alle letture passate degli utenti.                                                         | **Accrescere le conoscenze dei lettori** offrendo consigli su misura                                                 |
 | **Community Virtuale e Socializzazione** | Facebook, Goodreads, app di messaggistica                          | Permettere agli utenti di seguire i progressi di lettura degli amici, creando gruppi di lettura                                   | **Aumentare la passione verso la lettura** stimolando la socializzazione e la condivisione di esperienze             |
 | **Spazio Personale con Profilo Lettore** | Profilo utente di Facebook, piattaforme di streaming               | Consentire agli utenti di creare e personalizzare il proprio profilo, attraverso una libreria digitale                            | **Aumentare la passione verso la lettura** incoraggiando a procedere nelle proprie letture e la condivisione di esse |
