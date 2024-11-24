@@ -274,6 +274,16 @@ Gli orari sono **variabili nel corso del giorno**
 #### Pacucci Nicolò
 ![](./happy_paths/Pacucci_happyP.jpg)
 ### Sakellarides Elia
-![](./happy_paths)
+![](./happy_paths/Sakellarides_happyP.jpg)
 
 ## Design step 6
+
+![](./lowfideltymodel/LowFidelityPrototype1.png)
+
+![](./lowfideltymodel/LowFidelityPrototype2.png)
+
+![](./lowfideltymodel/LowFidelityPrototype3.png)
+
+![](./lowfideltymodel/LowFidelityPrototype4.png)
+
+![](./lowfideltymodel/LowFidelityPrototype5.png)
