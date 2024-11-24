@@ -50,26 +50,26 @@ Documento prodotto:
 
 Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, generando una lista di idee, da ogni lista abbiamo preso le **3 migliori** per votazione generando la seguente tabella:
 
-| **Persona**   | **Software/Contesto** | **Idea chiave**                    | **Descrizione**                                                                                                                                      |
-|---------------|-----------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Francesco** | Letterbox             | **Design Essenziale**              | L’interfaccia è diretta e intuitiva, senza elementi discordanti, con punti principali subito visibili.                                               |
-|               |                       | **Integrazione con Altri Servizi** | Connessione con altre piattaforme, come IMDb o servizi di streaming, per espandere l’uso e facilitare l’accesso a informazioni aggiuntive.           |
-|               |                       | **Focus Comunitario**              | Commenti, like e condivisioni sono messi in evidenza per favorire l’interazione tra utenti.                                                          |
-| **Michele**   | Amazon                | **Layout a Carosello**             | Caroselli visivi per presentare prodotti nuovi, consigliati o legati a eventi speciali.                                                              |
-|               |                       | **Sistema di Recensioni**          | Valutazioni a stelle e sezione domande/risposte per offrire riassunti delle impressioni degli utenti e facilitare l’interazione.                     |
-|               |                       | **Filtri di Ricerca Avanzata**     | Ricerca facilitata da filtri per data, autore, lunghezza, recensioni e livello di difficoltà del libro.                                              |
-| **Elia**      | Zalando               | **Navigazione Veloce**             | Barra di ricerca avanzata con suggerimenti in tempo reale e filtri chiari che restringono i risultati.                                               |
-|               |                       | **Semplicità e Usabilità**         | Struttura chiara e intuitiva con menù e filtri sempre accessibili, riducendo il sovraccarico cognitivo.                                              |
-|               |                       | **Personalizzazione Intelligente** | Algoritmi per raccomandazioni su misura e dashboard organizzata con informazioni utili come acquisti e lista dei desideri.                           |
-| **Andrea**    | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
-|               |                       | **Micro-interazioni**              | Feedback immediato con animazioni (es. cuore pulsante) e transizioni fluide per migliorare l’esperienza.                                             |
-|               |                       | **Gamification e Socialità**       | Badge, metriche visibili e notifiche per incentivare attività; strumenti social come messaggi, visualizzazioni e commenti per stimolare interazioni. |
-| **Fabio**     | TikTok                | **Magnetismo**                     | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                                    |
-|               |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                                           |
-|               |                       | **Spazio Personale**               | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento              |
-| **Nicolo'**   | Steam                 | **Categorizzazione Contenuti**     | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse              |
-|               |                       | **Notifiche di Prezzo**            | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                                                 |
-|               |                       | **Product Insight**                | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni                                           |
+| **Persona**              | **Software/Contesto** | **Idea chiave**                    | **Descrizione**                                                                                                                                      |
+|--------------------------|-----------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sgaramella Francesco** | Letterbox             | **Design Essenziale**              | L’interfaccia è diretta e intuitiva, senza elementi discordanti, con punti principali subito visibili.                                               |
+|                          |                       | **Integrazione con Altri Servizi** | Connessione con altre piattaforme, come IMDb o servizi di streaming, per espandere l’uso e facilitare l’accesso a informazioni aggiuntive.           |
+|                          |                       | **Focus Comunitario**              | Commenti, like e condivisioni sono messi in evidenza per favorire l’interazione tra utenti.                                                          |
+| **Pontrelli Michele**    | Amazon                | **Layout a Carosello**             | Caroselli visivi per presentare prodotti nuovi, consigliati o legati a eventi speciali.                                                              |
+|                          |                       | **Sistema di Recensioni**          | Valutazioni a stelle e sezione domande/risposte per offrire riassunti delle impressioni degli utenti e facilitare l’interazione.                     |
+|                          |                       | **Filtri di Ricerca Avanzata**     | Ricerca facilitata da filtri per data, autore, lunghezza, recensioni e livello di difficoltà del libro.                                              |
+| **Sakellarides Elia**    | Zalando               | **Navigazione Veloce**             | Barra di ricerca avanzata con suggerimenti in tempo reale e filtri chiari che restringono i risultati.                                               |
+|                          |                       | **Semplicità e Usabilità**         | Struttura chiara e intuitiva con menù e filtri sempre accessibili, riducendo il sovraccarico cognitivo.                                              |
+|                          |                       | **Personalizzazione Intelligente** | Algoritmi per raccomandazioni su misura e dashboard organizzata con informazioni utili come acquisti e lista dei desideri.                           |
+| **Porcelli Andrea**      | Instagram             | **Coinvolgimento Personalizzato**  | Algoritmi che personalizzano contenuti (es. feed e Reels) e Stories temporanee per incentivare il ritorno degli utenti.                              |
+|                          |                       | **Micro-interazioni**              | Feedback immediato con animazioni (es. cuore pulsante) e transizioni fluide per migliorare l’esperienza.                                             |
+|                          |                       | **Gamification e Socialità**       | Badge, metriche visibili e notifiche per incentivare attività; strumenti social come messaggi, visualizzazioni e commenti per stimolare interazioni. |
+| **Zippo Fabio**          | TikTok                | **Magnetismo**                     | Grazie alla sezione di contenuti a schermo intero di brevi durate riesce a tenere l'utente incollato allo schermo                                    |
+|                          |                       | **Comitiva Virtuale**              | In qualsiasi momento è possibile consultare i nuovi post dei propri amici e utenti fidati.                                                           |
+|                          |                       | **Spazio Personale**               | Una sezione in cui personalizzare il proprio profilo e tenere traccia di post e contenuti salvati, creati e consultarli in ogni momento              |
+| **Pacucci Nicolo'**      | Steam                 | **Categorizzazione Contenuti**     | Presenta un catalogo diviso per tipologie di contenuti che permette all'utente di individuare subito i prodotti di potenziale interesse              |
+|                          |                       | **Notifiche di Prezzo**            | All'avvio del software, il sistema notifica l'utente di sconti e offerte disponibili                                                                 |
+|                          |                       | **Product Insight**                | Alla selezione di un prodotto, il software visualizza le informazioni principali, valutazioni e recensioni                                           |
 
 ## Design step 2
 
@@ -237,6 +237,11 @@ Gli orari sono **variabili nel corso del giorno**
 #### Pacucci Nicolò
 ![](./crazy8/Pacucci_Crazy8.jpg)
 
+### Sakellarides Elia
+
+![](./crazy8/Sakellarides_Crazy8.jpg)
+
+
 ## Design step 4
 
 #### Pontrelli Michele
@@ -247,7 +252,28 @@ Gli orari sono **variabili nel corso del giorno**
 ![](./proposte_design/Sgaramella_design.png)
 #### Zippo Fabio
 ![](./proposte_design/Zippo_design.jpeg)
+#### Pacucci Nicolò
+![](./proposte_design/Pacucci_design.png)
+### Sakellarides Elia
+![](./proposte_design/Sakellarides_design.png)
+
+## VOTAZIONE
+
+![](./proposte_design/RATINGS.png)
 
 ## Design step 5
 
+#### Pontrelli Michele
+![](./happy_paths/Pontrelli_happyP.jpg)
+#### Porcelli Andrea
+![](./happy_paths/Porcelli_happyP.jpg)
+#### Sgaramella Francesco
+![](./happy_paths/Sgaramella_happyP.jpeg)
+#### Zippo Fabio
+![](./happy_paths/Zippo_happyP.jpg)
+#### Pacucci Nicolò
+![](./happy_paths/Pacucci_happyP.jpg)
+### Sakellarides Elia
+![](./happy_paths)
 
+## Design step 6
