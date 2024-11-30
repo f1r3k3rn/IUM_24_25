@@ -75,12 +75,11 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 ### **Punto 1 - 2 - 3 :** 
 
-
-1. Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati.
-2. Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa.
-3. Una volta selezionato il libro visualizza sulla mappa i punti vendita dove è disponibile.
-4. Una volta trovato il libro di tuo interesse, visualizza le informazioni specifiche a riguardo.
-5. Aggiungi un nuovo libro nella tua libreria personale.
+1. Vuoi andare sul catalogo dei libri "Consigliati", visualizza la sezione cataloghi e scegli il catalogo etichettato come libri "Consigliati".
+2. Dal catalogo dei libri "Consigliati" scegli il libro "1984".
+3. Visualizza la mappa dei negozi con il libro "1984".
+4. Una volta trovato il libro "1984", visualizza le informazioni specifiche a riguardo.
+5. Aggiungi il libro "Alice nel Paese delle Meraviglie" nella tua libreria.
 6. Visualizza la tua libreria personale.
 
 
@@ -91,18 +90,18 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 - **Sgaramella Francesco** - Task 3
 - **Sakellarides Elia** - Task 4
 - **Porcelli Andrea** - Task 5
-- **Pacucci Niccolò** - Task 6
+- **Pacucci Nicolò** - Task 6
 
-### **Vuoi trovare un libro di tuo interesse, visualizza la sezione cataloghi e scegli il catalogo dei consigliati. [Pontrelli]**
+### **Vuoi andare sul catalogo dei libri "Consigliati", visualizza la sezione cataloghi e scegli il catalogo etichettato come libri "Consigliati". [Pontrelli]**
 
 1.  **L'utente dal menù principale passa alla pagina dei cataloghi**
     - Quando apri l’app, dal menù principale, naviga nella sezione "Cataloghi".
 
-2.  **Nella sezione "Cataloghi", l'utente cliccherà sul catalogo delle letture consigliate:**
+2.  **Nella sezione "Cataloghi", l'utente scorre fra tutti i cataloghi disponibili fino a trovare quello dei "Consigliati":**
     - Passato alla sezione "Cataloghi", l'utente si trova davanti a diversi cataloghi contenenti libri raggruppati per temi, come: "Consigliati", "Novità", eventi speciali o generi.
     - L'utente seleziona il catalogo "Consigliati".
 
-### **Aggiungi un nuovo libro nella tua libreria personale [Porcelli]**
+### **Aggiungi il libro "Alice nel Paese delle Meraviglie" nella tua libreria [Porcelli]**
 
 1. **L'utente dal menu principale passa alla pagina per aggiungere un libro**
     - Quando apri l’app, vai nel menu principale e scegli l’opzione “Aggiungi un nuovo libro”. Può essere un pulsante grande o un’icona con un simbolo “+”.
@@ -112,56 +111,74 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
         - **Scansione del codice a barre:** Usa la fotocamera del telefono per scansionare "tipo scanner QR".
         - **Cerca il titolo o l’autore:** Scrivi il titolo del libro o il nome dell’autore nella barra di ricerca.
         - **Importa da un servizio:** Se hai collegato un account come Kindle o Google Books, puoi aggiungere libri direttamente da lì.
+   - L'utente sceglie di selezionare il libro da aggiungere tramite ricera del titolo, in questo caso "Alice nel Paese delle Meraviglie".
 
 3. **Aggiunge i dettagli personali:**
     - Dopo aver selezionato il libro, puoi aggiungere informazioni personali, come:
         - Tag o categorie (esempio: “Preferiti”, “Fantasy”).
         - Lo stato del libro (Non letto, In lettura, Letto).
+    - L'utente aggiunge il tag "Non letto".
 
 4. **Aggiunge altre note (opzionale):**
     - Puoi anche scrivere qualcosa come:
         - Dove hai preso il libro o quando.
         - Pensieri personali.
         - Note su dove sei arrivato nella lettura.
+    - L'utente aggiunge il luogo di acquisto tramite una barra di ricerca, in questo caso la libreria "Feltrinelli, Bari".
 5. **Salva il libro:**
     - Premi il pulsante “Salva” per confermare. L’app ti mostrerà un messaggio tipo: “Libro aggiunto con successo!”.
-    - Il libro ora si vede nella tua libreria personale.
+    - Il libro "Alice nel Paese delle Meraviglie" ora si vede nella tua libreria personale.
 
-6. **Guarda la sua libreria aggiornata:**
-    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.
+[//]: # ()
+[//]: # (6. **Guarda la sua libreria aggiornata:**)
 
-### **Visualizza la mappa dei negozi con un libro d'interesse [Sgaramella Francesco]**
+[//]: # (    - Vai nella tua libreria per vedere il libro appena aggiunto. Puoi modificarlo o aggiungere altre informazioni quando vuoi.)
 
-1. **Visualizzazione mappa con i libri**
-   - L'utente visualizza su una mappa virtuale i negozi che possiedono il libro selezionato. I negozi sono evidenziati da un segnalibro.
+### **Visualizza la mappa dei negozi con il libro "1984" [Sgaramella Francesco]**
+   Dalla pagina dei dettagli del libro "1984" l'utente clicca sul pulsante per visualizzare i negozi in cui esso è disponibile.
+
+1. **Visualizzazione mappa con i negozi in cui è disponibile il libro "1984"**
+   - L'utente visualizza su una mappa virtuale i negozi che possiedono il libro "1984". I negozi sono evidenziati da un segnalibro.
+     Nel nostro caso il libro è disponibile nei seguenti negozi:
+       - Feltrinelli
+       - Mondadori
+       - Athena
+       - Libraccio
    - L'utente può allargare il raggio di ricerca allontanandosi dalla sua posizione attuale per trovare negozi distanti
 
-2. **Visualizzazione dei negozi con lista (opzionale)**
-   - Al posto della mappa è possibile visualizzare i negozi pertinenti in una
+2. **Visualizzazione dei negozi precedentemente elencati attraverso una lista (opzionale)**
+   - Al posto della mappa è possibile visualizzare i negozi pertinenti in una lista
 
-3. **Selezione del negozio**
-   - Una volta selezionato il negozio dalla lista o dalla mappa il sistema mostrerà le informazioni specifiche del negozio come:
+3. **Selezione del negozio "Feltrinelli"**
+   - L'utente può selezionare il negozio dalla lista o dalla mappa per mostrare informazioni specifiche come:
      - Indirizzo
      - Numero di telefono
      - Social
+   - L'utente in questo caso seleziona sulla mappa il negozio "Feltrinelli" il:
+     - Via Melo da Bari, 119, 70121 Bari BA
+     - +39 3421417648
+     - https://www.lafeltrinelli.it/punto-vendita/bari/ms-bari/554?srsltid=AfmBOoquvz0aTdWCCouveDd5U4pHgAcnHiPo9LK8RBb_z7z_lqxsiq-X
 
 4. **Salva promemoria**
    - Dall'interfaccia del negozio è possibile salvare un premoria per ricordare all'utente che in tale negozio è presente un libro di suo interesse
+   - Nel nostro caso decide di salvare il promemoria che permette all'utente
+     di ricordarsi che il libro "1984" è presente nel negozio "Feltrinelli".
 
-### **Dalla lista dei libri consigliati di un catalogo vuoi scegliere un libro da leggere seleziona quello che ti interessa. [Zippo]**
+### **Dal catalogo dei libri "Consigliati" scegli il libro "1984". [Zippo]**
 
-1. **Visualizza i libri consigliati:**
-    - Una volta scelto il catalogo dei libri consigliati si presenta una lista di libri.
+1. **Visualizza i libri nel catalogo "Consigliati":**
+    - Una volta scelto il catalogo dei libri "Consigliati" si presenta una lista di libri.
     - È possibile applicare filtri o fare una ricerca per trovare il libro desiderato.
     - È inoltre possibile modificare la modalità di visualizzazione della lista.
+    L'utente non applica filtri e utilizza la visualizzazione di default.
 2. **Scegli il libro interessato:**
-    - Scorri la lista di libri consigliati e seleziona il libro che ti interessa.
+    - Scorri la lista di libri consigliati e seleziona il libro che ti interessa, nel nostro caso l'utente seleziona "1984"
     - Clicca sul libro per selezionarlo e visualizzarne i dettagli come:
         - Autore, genere, data di pubblicazione.
         - Trama, recensioni, valutazioni.
         - Pagine, formato, prezzo.
 
-### Visualizza la tua libreria personale [Pacucci Niccolò]
+### Visualizza la tua libreria personale [Pacucci Nicolò]
 
 1. **Accesso alla libreria personale**
     - L'utente accede alla sua libreria personale dal menu principale dell'app. Può essere un pulsante o un'icona con un simbolo di libri.
@@ -174,14 +191,35 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
     - L'utente può filtrare la libreria per:
         - Categoria (esempio: “Fantasy”, “Romanzi”).
         - Stato del libro (Non letto, In lettura, Letto).
+    - L'utente decide di filtrare i libri per genere "Drammatico"
     - L'utente può cercare un libro specifico scrivendo il titolo
 
-4. **Visualizzazione dettagli libro**
+[//]: # (4. **Visualizzazione dettagli libro**)
 
-5. **Eliminazione libro**
-    - L'utente può eliminare un libro dalla sua libreria personale.
-    - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.
-    - L'app chiederà una conferma prima di eliminare il libro.
+[//]: # ()
+[//]: # (5. **Eliminazione libro**)
+
+[//]: # (    - L'utente può eliminare un libro dalla sua libreria personale.)
+
+[//]: # (    - Dalla miniatura del libro, l'utente può selezionare un pulsante per eliminare il libro.)
+
+[//]: # (    - L'app chiederà una conferma prima di eliminare il libro.)
+
+### Una volta trovato il libro "1984", visualizza le informazioni specifiche a riguardo [Sakellarides Elia]
+
+1. Una volta selezionato il libro "1984" da un catalogo, l'utente visualizza la pagina dei dettagli di un libro contenente le seguenti informazioni:
+   + Genere
+   + Autore
+   + Copertina
+   + Trama
+   + Anno di pubblicazione
+   + Numero di utenti che lo hanno aggiunto nei preferiti
+   + Numero di utenti che lo hanno letto
+   + Recensioni
+   + Tasto per visualizzare i negozi dove esso è disponibile
+   + Interazioni social di condivisione del contenuto
+   
+2. L'utente scorre la pagina per visualizzare tutte le informazioni riguardanti il libro "1984".
 
 ### **Punto 6**
 
