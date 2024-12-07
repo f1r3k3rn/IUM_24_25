@@ -9,7 +9,6 @@ L'icona della freccia non ha fatto subito pensare ad un'interazione.
 Questo è il catalogo dei libri consigliati. Ora devi cercare un libro di tuo interesse, nel tuo caso "1984".
 
 Il tester ha individuato la barra di ricerca per filtrare i contenuti, si è limitata a selezionare il libro d'interesse utilizzando i riquadri. Non è stato riscontrato nessun problema.
-Ecco qui. Ok, puoi? Il digito del libro. Allora, questi sono dei consigliati, quindi o ti appare già un libro di tuo interesse, se lo vedi qua, oppure lo puoi cercare, cosa fai? Non voglio cercare.
 
 # Task 3
 Una volta trovato il libro "1984", visualizza le informazioni specifiche a riguardo e passa alla mappa che ti permette di visualizzare i punti vendita.
