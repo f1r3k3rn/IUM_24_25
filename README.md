@@ -30,10 +30,11 @@ La struttura del repository è organizzata come segue:
     ├───sprint 3
     │   ├───crazy8
     │   ├───happy_paths
-    │   ├───lowfideltymodel
+    │   ├───lowfidelitymodel
     │   └───proposte_design
     └───sprint 4
-        └───user tests
+        ├───lowfidelitymodel_modified
+        └───users_test_files
 
 ```
 
