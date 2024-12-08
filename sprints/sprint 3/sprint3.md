@@ -316,12 +316,12 @@ Gli orari sono **variabili nel corso del giorno**
 
 ## Design step 6
 
-![](lowfideltymodel/LowFidelityPrototype1.png)
+![](lowfidelitymodel/LowFidelityPrototype1.png)
 
-![](lowfideltymodel/LowFidelityPrototype2.png)
+![](lowfidelitymodel/LowFidelityPrototype2.png)
 
-![](lowfideltymodel/LowFidelityPrototype3.png)
+![](lowfidelitymodel/LowFidelityPrototype3.png)
 
-![](lowfideltymodel/LowFidelityPrototype4.png)
+![](lowfidelitymodel/LowFidelityPrototype4.png)
 
-![](lowfideltymodel/LowFidelityPrototype5.png)
+![](lowfidelitymodel/LowFidelityPrototype5.png)
