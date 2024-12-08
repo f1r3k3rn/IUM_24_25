@@ -223,7 +223,7 @@ Ognuno di noi ha analizzato una proposta dell'utente per un ottimo design, gener
 
 ### **Punto 6**
 
-[preparazione_user_testing](./User_testing_preparation.md)
+[preparazione_user_testing](User_testing_preparation.md)
 
 ### **Punto 7**
 
@@ -261,67 +261,67 @@ Gli orari sono **variabili nel corso del giorno**
 ### crazy8
 
 #### Pontrelli Michele
-![](./crazy8/Pontrelli_Crazy8.jpg)
+![](crazy8/Pontrelli_Crazy8.jpg)
 
 #### Porcelli Andrea
-![](./crazy8/Porcelli_Crazy8.jpg)
+![](crazy8/Porcelli_Crazy8.jpg)
 
 #### Sgaramella Francesco
-![](./crazy8/Sgaramella_Crazy8.jpeg)
+![](crazy8/Sgaramella_Crazy8.jpeg)
 
 #### Zippo Fabio
-![](./crazy8/Zippo_Crazy8.jpg)
+![](crazy8/Zippo_Crazy8.jpg)
 
 #### Pacucci Nicolò
-![](./crazy8/Pacucci_Crazy8.jpg)
+![](crazy8/Pacucci_Crazy8.jpg)
 
 ### Sakellarides Elia
 
-![](./crazy8/Sakellarides_Crazy8.jpg)
+![](crazy8/Sakellarides_Crazy8.jpg)
 
 
 ## Design step 4
 
 #### Pontrelli Michele
-![](./proposte_design/Pontrelli_design.png)
+![](proposte_design/Pontrelli_design.png)
 #### Porcelli Andrea
-![](./proposte_design/Porcelli_design.jpg)
+![](proposte_design/Porcelli_design.jpg)
 #### Sgaramella Francesco
-![](./proposte_design/Sgaramella_design.png)
+![](proposte_design/Sgaramella_design.png)
 #### Zippo Fabio
-![](./proposte_design/Zippo_design.jpeg)
+![](proposte_design/Zippo_design.jpeg)
 #### Pacucci Nicolò
-![](./proposte_design/Pacucci_design.png)
+![](proposte_design/Pacucci_design.png)
 ### Sakellarides Elia
-![](./proposte_design/Sakellarides_design.png)
+![](proposte_design/Sakellarides_design.png)
 
 ## VOTAZIONE
 
-![](./proposte_design/RATINGS.png)
+![](proposte_design/RATINGS.png)
 
 ## Design step 5
 
 #### Pontrelli Michele
-![](./happy_paths/Pontrelli_happyP.jpg)
+![](happy_paths/Pontrelli_happyP.jpg)
 #### Porcelli Andrea
-![](./happy_paths/Porcelli_happyP.jpg)
+![](happy_paths/Porcelli_happyP.jpg)
 #### Sgaramella Francesco
-![](./happy_paths/Sgaramella_happyP.jpeg)
+![](happy_paths/Sgaramella_happyP.jpeg)
 #### Zippo Fabio
-![](./happy_paths/Zippo_happyP.jpg)
+![](happy_paths/Zippo_happyP.jpg)
 #### Pacucci Nicolò
-![](./happy_paths/Pacucci_happyP.jpg)
+![](happy_paths/Pacucci_happyP.jpg)
 ### Sakellarides Elia
-![](./happy_paths/Sakellarides_happyP.jpg)
+![](happy_paths/Sakellarides_happyP.jpg)
 
 ## Design step 6
 
-![](./lowfideltymodel/LowFidelityPrototype1.png)
+![](lowfideltymodel/LowFidelityPrototype1.png)
 
-![](./lowfideltymodel/LowFidelityPrototype2.png)
+![](lowfideltymodel/LowFidelityPrototype2.png)
 
-![](./lowfideltymodel/LowFidelityPrototype3.png)
+![](lowfideltymodel/LowFidelityPrototype3.png)
 
-![](./lowfideltymodel/LowFidelityPrototype4.png)
+![](lowfideltymodel/LowFidelityPrototype4.png)
 
-![](./lowfideltymodel/LowFidelityPrototype5.png)
+![](lowfideltymodel/LowFidelityPrototype5.png)

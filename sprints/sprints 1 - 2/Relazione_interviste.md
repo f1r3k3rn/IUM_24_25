@@ -10,7 +10,7 @@ Abbiamo preparato l’insieme delle domande basandoci sul template incluso nel m
 
 Sulla base di ciò abbiamo elaborato un primo insieme delle domande che abbiamo messo alla prova nell’intervista pilota.
 
-![](./img/meeting.png)
+![](../../img/meeting.png)
 
 ## Risultati intervista pilota
 
@@ -31,7 +31,7 @@ poiché intervistati più grandi d’età non avrebbero saputo rispondere in man
 L' intervista è stata effettuata a un proprietario di negozio, che svolge anche la funzione di libraio sulla cinquantina d'anni, ha bisogno di un sistema intuitivo, facile e alla portata del gap generazionale dei suoi clienti, creando un collegamento tra libreria e cliente. 
 L' obbiettivo auspicabile è la realizzazione di una finestra sul cliente, che rende il consigliare libri e fumetti un caso d'uso efficiente, efficace e soddisfacente .
 
-![](./img/porcelli_interview.png)
+![](../../img/porcelli_interview.png)
 
 ### Fabio Zippo 
 
@@ -39,27 +39,27 @@ Dovendo intervistare un dipendente di una libreria, io e i miei colleghi ci siam
 Il punto principale di ciò che ci ha detto l'intervistata è l'interazione tra il lettore e gli esperti, focalizzandosi sul consigliare letture e poter vedere le letture preferite degli altri utenti e scrittori. 
 Inoltre ha suggerito di focalizzarsi sul coinvolgere i giovani tramite quest'iniziativa e avvicinarli al mondo della lettura vedendo il movimento verso la lettura che per esempio gli influencer possono creare
 
-![](./img/fabio_interview.png)
+![](../../img/fabio_interview.png)
 
 ### Sgaramella Francesco
 
 L' intervista è stata effettuata a un lettore Sporadico nello specifico, una studentessa universitaria di 20 anni, ha bisogno di un sistema veloce ed intuitivo al fine di non perdere tempo.
 Pur non essendo una lettrice esperta, vorrebbe scrivere piccole recensioni al fine di comunicare con i suoi amici o con la community.
 
-![](./img/francesco_interview.png)
+![](../../img/francesco_interview.png)
 
 
 ### Elia Sakellarides
 
 L'intervista è stata effettuata con un lettore sporadico, studente di giurisprudenza al quinto anno, di 24 anni, Per informarsi o acquistare prodotti, si affida principalmente a internet e ai social media, come Instagram, preferendo un'analisi iniziale online e successivamente valutando di persona, se possibile. Nel contesto della lettura, dichiara di leggere circa quattro libri all'anno, trovando piacere nel farlo e trovando principalmente le informazioni che cerca attraverso canali digitali. È favorevole all’uso di tecnologie informative e ritiene utile l'ausilio di strumenti digitali per migliorare l'efficacia della ricerca di informazioni, valorizzando facilità d’uso ed efficienza. È aperta a utilizzare strumenti digitali per ampliare le proprie conoscenze e si dice attento alle recensioni, vedendole come elementi importanti nella decisione d'acquisto.
 
-![](./img/elia_interview.png)
+![](../../img/elia_interview.png)
 
 ### Michele Pontrelli
 
 L'intervista è stata fatta ad un utente della classe dei lettori esperti, uno studente universitario di 20 anni che frequenta il corso di Ingegneria Informatica del Politecnico di Milano. L’intervista si è svolta a casa sua ed a ricoprire il ruolo di osservatore era Fabio Zippo il quale ha preso appunti relativamente alle risposte dell’intervistato; inoltre è stato registrato l’intero discorso così da poter successivamente corroborare appunti e risposte effettive così da poter compilare facilmente ed efficacemente il documento.
 
-![](./img/michele_interview.png)
+![](../../img/michele_interview.png)
 
 ### Nicolo' Pacucci
 
@@ -67,4 +67,4 @@ Durante l’intervista, è stato chiesto a un amico di 21 anni, studente di fisi
 
 L’intervista si è svolta in modo informale e si è rivelata molto interessante: sono state poste domande aperte, con l’intento di permettere all’intervistato di esprimersi liberamente e raccontare le sue aspettative riguardo un’app progettata per un pubblico di lettori appassionati.
 
-![](./img/pacucci_interview.png)
+![](../../img/pacucci_interview.png)
