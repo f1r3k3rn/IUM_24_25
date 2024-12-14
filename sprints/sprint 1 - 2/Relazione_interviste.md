@@ -18,9 +18,9 @@ Svolgendo l’intervista di prova internamente al gruppo, abbiamo concluso che l
 
 >”Potresti darmi degli esempi di app che trovi esteticamente sgradevoli o difficili da utilizzare e le ragioni per cui lo pensi?”; 
 
-poiché intervistati più grandi d’età non avrebbero saputo rispondere in maniera esauriente e avrebbe appesantito troppo l’intervista, inoltre il nostro interesse è maggiormente negli aspetti da perseguire piuttosto che in quelli da evitare. Infine, svolgendo questo prototipo di intervista insieme, abbiamo potuto porci tutti sullo stesso piano relativamente al senso delle domande, al come porle e alle risposte che vogliamo ottenere, così da poter realizzare delle interviste standardizzate.
+Poiché intervistati più grandi d’età non avrebbero saputo rispondere in maniera esauriente e avrebbe appesantito troppo l’intervista, inoltre il nostro interesse è maggiormente negli aspetti da perseguire piuttosto che in quelli da evitare. Infine, svolgendo questo prototipo di intervista insieme, abbiamo potuto porci tutti sullo stesso piano relativamente al senso delle domande, al come porle e alle risposte che vogliamo ottenere, così da poter realizzare delle interviste standardizzate.
 
-**L'insieme delle domande è contenuto nel file dal nome [Template](./Template).** 
+**L'insieme delle domande è contenuto nel file dal nome [Template](./template_interviste/Template_interviste.md).** 
 
 ## Come sono state condotte le interviste
 
@@ -68,3 +68,14 @@ Durante l’intervista, è stato chiesto a un amico di 21 anni, studente di fisi
 L’intervista si è svolta in modo informale e si è rivelata molto interessante: sono state poste domande aperte, con l’intento di permettere all’intervistato di esprimersi liberamente e raccontare le sue aspettative riguardo un’app progettata per un pubblico di lettori appassionati.
 
 ![](../../img/pacucci_interview.png)
+
+
+## UX Goals
+I tre obiettivi che abbiamo scelto sono:
+- STIMULATION
+- DISCOVERY
+- DREAMYNESS
+
+Il motivo è che il nostro programma vuole essere molto facile con l'utente di qualsiasi gruppo e deve
+invogliare alla lettura, scoperta di nuovi titoli e interagire con altre persone, facilitando la comunicazione
+libreria-cliente.
